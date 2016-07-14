@@ -1,6 +1,6 @@
 {
   "name": "justified-gallery",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A compatibility package to use justifiedGallery in projects",
   "homepage": "https://github.com/rand0me/node-justified-gallery",
   "author": {
