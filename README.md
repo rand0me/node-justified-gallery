@@ -22,5 +22,5 @@ ISC © [rand0me](https://rand0me.github.io)
 
 [npm-image]: https://badge.fury.io/js/justified-gallery.svg
 [npm-url]: https://npmjs.org/package/justified-gallery
-[daviddm-image]: https://david-dm.org/rand0me/justified-gallery.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/rand0me/justified-gallery
+[daviddm-image]: https://david-dm.org/rand0me/node-justified-gallery.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/rand0me/node-justified-gallery
