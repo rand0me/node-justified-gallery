@@ -1,4 +1,7 @@
 # justified-gallery [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/node-justified-gallery.svg)](https://greenkeeper.io/)
+
 > A compatibility package to use justifiedGallery in projects
 
 ## Installation
